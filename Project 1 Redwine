@@ -18,7 +18,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "C:\\Users\\sathp\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sklearn\\base.py:464: UserWarning: X does not have valid feature names, but DecisionTreeClassifier was fitted with feature names\n",
+      "C:\\Users\\vidya\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sklearn\\base.py:464: UserWarning: X does not have valid feature names, but DecisionTreeClassifier was fitted with feature names\n",
       "  warnings.warn(\n"
      ]
     },
